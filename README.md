@@ -1,7 +1,3 @@
-# ejercicio-alumno
+# Srek
 
-## Integrantes
-
-- integrante1 (usuario github)
-- integrante2 (usuario github)
-...
+Ejemplo de clase
